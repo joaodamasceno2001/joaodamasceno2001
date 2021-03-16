@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou estudante de ciência da computação e um grande entusiasta de tecnologias.
-Prentendo me especializar em Desenvolvimento Web, especificamente em Front-end :computer:
+Pretendo me especializar em Desenvolvimento Web, especificamente em Front-end :computer:
 
  :rocket:  &nbsp; Sou estudante na instituição **UNIFG**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e NodeJs
