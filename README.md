@@ -7,7 +7,7 @@
 I am a computer science student and a big technology enthusiast.
 I intend to specialize in Web Development, specifically in Front-end :computer:
 
- :rocket:  &nbsp; Sou estudante na instituição **UNIFG**
+ :rocket:  &nbsp; I am a student at the institution **UNIFG**
  <br/> :purple_heart: &nbsp; Looking for to collaborate with projects in Front-end using React e NodeJs
  <br/> :blush: &nbsp; I can help you with layouts development and maybe Back-end
  <br/> :computer: &nbsp; My stacks: ReactJS, Node.js & Typescript
