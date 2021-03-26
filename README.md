@@ -1,5 +1,3 @@
-<img width="auto" src="https://avatars.githubusercontent.com/u/54445427?s=460&u=855abdb89765d1832051dab1b372edbd3d19d4cc&v=4">
-
 
 # João Victor Damasceno
 
