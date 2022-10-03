@@ -12,4 +12,4 @@ I intend to specialize in Web Development, specifically become a full-stack deve
  <br/> 💬  &nbsp; About me: Love technologies, games: CSGO, LoL, Valorant, series on Netflix and reading books 
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-JoãoVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaodamasceno2001/)](https://www.linkedin.com/in/joaodamasceno2001/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-joao_damasceno2001@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomicis59@gmail.com)](mailto:joaomicis59@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaomicis59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomicis59@gmail.com)](mailto:joaomicis59@gmail.com)
